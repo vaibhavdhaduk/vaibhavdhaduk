@@ -6,23 +6,23 @@
 
 <p>
   <a href="https://github.com/vaibhav133/vaibhav" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=vaibhav133&hide=java,html,php,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=vaibhavd133&hide=java,html,php,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
   </a>
   
-  <a href="https://github.com/vaibhav133/vaibhav" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhav133&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="vaibhav133's GitHub Stats" height="180px"/>
+  <a href="https://github.com/vaibhavd133/vaibhav" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavd133&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="vaibhavd133's GitHub Stats" height="180px"/>
   </a>
   
  </p>
  
  <p>
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=vaibhav133&theme=onedark&row=1&&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=vaibhavd133&theme=onedark&row=1&&column=7)](https://github.com/ryo-ma/github-profile-trophy)
  </p>
  
 <br />
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vaibhav133&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vaibhavd133&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true)
 
 <br />
 
@@ -41,4 +41,4 @@
 
 <br />
 
-![](https://komarev.com/ghpvc/?username=vaibhav133&color=dc143c)
+![](https://komarev.com/ghpvc/?username=vaibhavd133&color=dc143c)
