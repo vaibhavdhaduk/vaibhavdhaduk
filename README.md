@@ -5,38 +5,33 @@
 ## 💪 Overview
 
 <p>
-  <a href="https://github.com/hironate/hironate" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=hironate&hide=java,html,php,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
+  <a href="https://github.com/vaibhav133/vaibhav" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=vaibhav133&hide=java,html,php,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
   </a>
   
-  <a href="https://github.com/hironate/hironate" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hironate&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Hironate's GitHub Stats" height="180px"/>
+  <a href="https://github.com/vaibhav133/vaibhav" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhav133&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="vaibhav133's GitHub Stats" height="180px"/>
   </a>
   
  </p>
  
  <p>
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=hironate&theme=onedark&row=1&&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=vaibhav133&theme=onedark&row=1&&column=7)](https://github.com/ryo-ma/github-profile-trophy)
  </p>
  
 <br />
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hironate&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vaibhav133&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true)
 
 <br />
 
 ## 📖 Languages
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Solidity-9E9E9E?style=for-the-badge&logo=solidity&logoColor=black">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
@@ -46,4 +41,4 @@
 
 <br />
 
-![](https://komarev.com/ghpvc/?username=hironate&color=dc143c)
+![](https://komarev.com/ghpvc/?username=vaibhav133&color=dc143c)
