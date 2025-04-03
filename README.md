@@ -5,24 +5,24 @@
 ## 💪 Overview
 
 <p>
-  <a href="https://github.com/vaibhavd133/vaibhavd133" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=vaibhavd133&hide=java,html,php,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
+  <a href="https://github.com/vaibhavdhaduk/vaibhavdhaduk" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=vaibhavdhaduk&hide=java,html,php,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
   </a>
   
-  <a href="https://github.com/vaibhavd133/vaibhavd133" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavd133&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="vaibhavd133's GitHub Stats" height="180px"/>
+  <a href="https://github.com/vaibhavdhaduk/vaibhavdhaduk" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavdhaduk&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="vaibhavdhaduk's GitHub Stats" height="180px"/>
   </a>
   
  </p>
  
  <p>
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=vaibhavd133&theme=onedark&row=1&&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=vaibhavdhaduk&theme=onedark&row=1&&column=7)](https://github.com/ryo-ma/github-profile-trophy)
  </p>
  
 <br />
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vaibhavd133&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vaibhavdhaduk&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true)
 
 <br />
 
@@ -41,4 +41,4 @@
 
 <br />
 
-![](https://komarev.com/ghpvc/?username=vaibhavd133&color=dc143c)
+![](https://komarev.com/ghpvc/?username=vaibhavdhaduk&color=dc143c)
